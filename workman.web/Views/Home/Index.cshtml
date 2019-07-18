@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout="_LayoutTop";
+}
+<script>
+    $(function () {
+            var page = {
+                init: function () {
+                    this.load();
+                    this.bind();
+                    this.userInit();
+                },
+                load: function () {
+                    
+
+                },
+                bind: function () {
+
+                    layui.config({
+                        base: top.$.rootUrl + '/content/layui/' //静态资源所在路径
+                    }).extend({
+                        index: 'lib/index' //主入口模块
+                    }).use('index');
+                    return;
+
+                },
+                userInit: function () {
+
+                },
+                loginout: function () { // 安全退出
+
+                },
+                clearredis: function () {
+
+                },
+
+            };
+            page.init();
+
+        });
+
+
+
+</script>
