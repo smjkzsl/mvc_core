@@ -1,0 +1,12 @@
+D:\code\mvc_core\DataBase\bin\Debug\netcoreapp2.2\DataBase.deps.json
+D:\code\mvc_core\DataBase\bin\Debug\netcoreapp2.2\DataBase.dll
+D:\code\mvc_core\DataBase\obj\Debug\netcoreapp2.2\DataBase.csprojAssemblyReference.cache
+D:\code\mvc_core\DataBase\obj\Debug\netcoreapp2.2\DataBase.csproj.CoreCompileInputs.cache
+D:\code\mvc_core\DataBase\obj\Debug\netcoreapp2.2\DataBase.AssemblyInfoInputs.cache
+D:\code\mvc_core\DataBase\obj\Debug\netcoreapp2.2\DataBase.AssemblyInfo.cs
+D:\code\mvc_core\DataBase\bin\Debug\netcoreapp2.2\Workman.Util.dll
+D:\code\mvc_core\DataBase\bin\Debug\netcoreapp2.2\Workman.Util.pdb
+D:\code\mvc_core\DataBase\obj\Debug\netcoreapp2.2\DataBase.csproj.CopyComplete
+D:\code\mvc_core\DataBase\bin\Debug\netcoreapp2.2\DataBase.pdb
+D:\code\mvc_core\DataBase\obj\Debug\netcoreapp2.2\DataBase.dll
+D:\code\mvc_core\DataBase\obj\Debug\netcoreapp2.2\DataBase.pdb

@@ -1,0 +1,9 @@
+D:\code\workman\SSRS.Base.Services\SSRS.Util\bin\Debug\netcoreapp2.2\SSRS.Util.deps.json
+D:\code\workman\SSRS.Base.Services\SSRS.Util\bin\Debug\netcoreapp2.2\SSRS.Util.dll
+D:\code\workman\SSRS.Base.Services\SSRS.Util\bin\Debug\netcoreapp2.2\SSRS.Util.pdb
+D:\code\workman\SSRS.Base.Services\SSRS.Util\obj\Debug\netcoreapp2.2\SSRS.Util.csprojAssemblyReference.cache
+D:\code\workman\SSRS.Base.Services\SSRS.Util\obj\Debug\netcoreapp2.2\SSRS.Util.csproj.CoreCompileInputs.cache
+D:\code\workman\SSRS.Base.Services\SSRS.Util\obj\Debug\netcoreapp2.2\SSRS.Util.AssemblyInfoInputs.cache
+D:\code\workman\SSRS.Base.Services\SSRS.Util\obj\Debug\netcoreapp2.2\SSRS.Util.AssemblyInfo.cs
+D:\code\workman\SSRS.Base.Services\SSRS.Util\obj\Debug\netcoreapp2.2\SSRS.Util.dll
+D:\code\workman\SSRS.Base.Services\SSRS.Util\obj\Debug\netcoreapp2.2\SSRS.Util.pdb
