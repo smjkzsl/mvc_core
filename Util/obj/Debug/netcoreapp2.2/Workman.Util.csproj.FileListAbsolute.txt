@@ -1,9 +1,0 @@
-D:\code\mvc_core\Util\bin\Debug\netcoreapp2.2\Workman.Util.deps.json
-D:\code\mvc_core\Util\bin\Debug\netcoreapp2.2\Workman.Util.dll
-D:\code\mvc_core\Util\obj\Debug\netcoreapp2.2\Workman.Util.csprojAssemblyReference.cache
-D:\code\mvc_core\Util\obj\Debug\netcoreapp2.2\Workman.Util.csproj.CoreCompileInputs.cache
-D:\code\mvc_core\Util\obj\Debug\netcoreapp2.2\Workman.Util.AssemblyInfoInputs.cache
-D:\code\mvc_core\Util\obj\Debug\netcoreapp2.2\Workman.Util.AssemblyInfo.cs
-D:\code\mvc_core\Util\bin\Debug\netcoreapp2.2\Workman.Util.pdb
-D:\code\mvc_core\Util\obj\Debug\netcoreapp2.2\Workman.Util.dll
-D:\code\mvc_core\Util\obj\Debug\netcoreapp2.2\Workman.Util.pdb

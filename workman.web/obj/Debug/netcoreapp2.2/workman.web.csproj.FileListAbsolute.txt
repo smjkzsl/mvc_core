@@ -28,3 +28,7 @@ d:\code\mvc_core\workman.web\obj\Debug\netcoreapp2.2\workman.web.Views.pdb
 d:\code\mvc_core\workman.web\obj\Debug\netcoreapp2.2\workman.web.dll
 d:\code\mvc_core\workman.web\obj\Debug\netcoreapp2.2\workman.web.pdb
 d:\code\mvc_core\workman.web\obj\Debug\netcoreapp2.2\workman.web.csproj.CopyComplete
+D:\code\mvc_core\workman.web\bin\Debug\netcoreapp2.2\Workman.Util.dll
+D:\code\mvc_core\workman.web\bin\Debug\netcoreapp2.2\Workman.Util.pdb
+D:\code\mvc_core\workman.web\obj\Debug\netcoreapp2.2\Razor\Views\Script\Index.g.cshtml.cs
+D:\code\mvc_core\workman.web\obj\Debug\netcoreapp2.2\Razor\Scripts\Controllers\a\Views\Index.g.cshtml.cs

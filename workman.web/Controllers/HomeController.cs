@@ -5,8 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using workman.web.Models;
-using workman.web.plugin;
-namespace workman.web.Controllers
+using Workman.Plugin;
+namespace Workman.web.Controllers
 {
     public class HomeController : Controller
     {
@@ -16,17 +16,7 @@ namespace workman.web.Controllers
             return View();
         }
         public IActionResult DesktopIndex(){
-            PythonScript pyEngin = new PythonScript();
-            string code = @"
-class Test:
-    def add(self,a,b):
-        return a+b
-            ";
-            pyEngin.init(code);
-            pyEngin.run("Test");
-            var ret = pyEngin.CallFunction("add", 4, 5);
-            ViewData["ret"] = ret;
-
+             
             return View();
         }
         public IActionResult About()

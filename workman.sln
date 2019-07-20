@@ -5,9 +5,15 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "workman.web", "workman.web\workman.web.csproj", "{3549BE1D-DD87-4586-91A3-E2599D20505D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{D8D5E109-7107-4380-8802-CCE119327671}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase", "Libs\DB\DataBase\DataBase.csproj", "{D8D5E109-7107-4380-8802-CCE119327671}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workman.Util", "Util\Workman.Util.csproj", "{D9FCD770-B6FC-40FB-BD10-45714398C439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workman.Util", "Libs\Util\Workman.Util\Workman.Util.csproj", "{D9FCD770-B6FC-40FB-BD10-45714398C439}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{D2382354-7DD2-4C1F-8144-72097BEFC830}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{99FFD1E9-88F6-424D-AE39-C5C39C63DB3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Util", "Util", "{65E2D1A2-AE6F-4B4E-8B32-18FFC9ACCFDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -58,6 +64,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8D5E109-7107-4380-8802-CCE119327671} = {99FFD1E9-88F6-424D-AE39-C5C39C63DB3C}
+		{D9FCD770-B6FC-40FB-BD10-45714398C439} = {65E2D1A2-AE6F-4B4E-8B32-18FFC9ACCFDB}
+		{99FFD1E9-88F6-424D-AE39-C5C39C63DB3C} = {D2382354-7DD2-4C1F-8144-72097BEFC830}
+		{65E2D1A2-AE6F-4B4E-8B32-18FFC9ACCFDB} = {D2382354-7DD2-4C1F-8144-72097BEFC830}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D79E9DE-CABF-45F3-BC2E-79C08A654F39}
