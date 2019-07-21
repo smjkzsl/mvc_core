@@ -2953,8 +2953,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Scripts\\Controllers\\a\\Views\\Index.cshtml",
+      "TargetPath": "Scripts\\Controllers\\a\\Views\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Script\\Index.cshtml",
+      "TargetPath": "Views\\Script\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2982,5 +2992,6 @@
       "TargetPath": "Views\\Shared\\_LayoutTop.cshtml",
       "FileKind": "mvc"
     }
-  ]
+  ],
+  "SerializationFormat": "0.1"
 }
